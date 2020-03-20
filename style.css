@@ -1,3 +1,26 @@
 body{
   background:lightgrey;
 }
+
+#potw{
+  width:600px;
+  position:absolute;
+  top:10;
+  left:10px;
+}
+
+#q1{
+  position:absolute;
+  border:1px solid #242be3;
+  top: 160px;
+  left:46px;
+  width:50px;
+}
+
+.correct{
+  background:green;
+}
+
+.incorrect{
+  background:red;
+}
